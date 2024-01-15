@@ -1,0 +1,404 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "first_name": "Randal",
+      "last_name": "Schoen",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/661.jpg",
+      "team": "team 1",
+      "number": 79
+    },
+    {
+      "id": 2,
+      "first_name": "Cameron",
+      "last_name": "Reilly",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/348.jpg",
+      "team": "team 2",
+      "number": 12
+    },
+    {
+      "id": 3,
+      "first_name": "Barton",
+      "last_name": "Howell",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1126.jpg",
+      "team": "team 3",
+      "number": 10
+    },
+    {
+      "id": 4,
+      "first_name": "Bradford",
+      "last_name": "Kerluke",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1140.jpg",
+      "team": "team 4",
+      "number": 54
+    },
+    {
+      "id": 5,
+      "first_name": "Leland",
+      "last_name": "Beer",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/41.jpg",
+      "team": "team 5",
+      "number": 64
+    },
+    {
+      "id": 6,
+      "first_name": "Tiana",
+      "last_name": "Goyette",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/774.jpg",
+      "team": "team 6",
+      "number": 29
+    },
+    {
+      "id": 7,
+      "first_name": "Timmy",
+      "last_name": "Hamill",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1002.jpg",
+      "team": "team 7",
+      "number": 7
+    },
+    {
+      "id": 8,
+      "first_name": "Nichole",
+      "last_name": "Daniel",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/752.jpg",
+      "team": "team 8",
+      "number": 99
+    },
+    {
+      "id": 9,
+      "first_name": "Edgardo",
+      "last_name": "Jacobs",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1195.jpg",
+      "team": "team 9",
+      "number": 63
+    },
+    {
+      "id": 10,
+      "first_name": "Johathan",
+      "last_name": "Champlin",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+      "team": "team 10",
+      "number": 38
+    },
+    {
+      "id": 11,
+      "first_name": "Emery",
+      "last_name": "Pacocha",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1231.jpg",
+      "team": "team 1",
+      "number": 35
+    },
+    {
+      "id": 12,
+      "first_name": "Alek",
+      "last_name": "Howe",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/467.jpg",
+      "team": "team 2",
+      "number": 79
+    },
+    {
+      "id": 13,
+      "first_name": "Josefa",
+      "last_name": "Ritchie",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/99.jpg",
+      "team": "team 3",
+      "number": 69
+    },
+    {
+      "id": 14,
+      "first_name": "Sterling",
+      "last_name": "Lynch",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/637.jpg",
+      "team": "team 4",
+      "number": 96
+    },
+    {
+      "id": 15,
+      "first_name": "Jude",
+      "last_name": "Cole",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/331.jpg",
+      "team": "team 5",
+      "number": 98
+    },
+    {
+      "id": 16,
+      "first_name": "Guy",
+      "last_name": "Tremblay",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/860.jpg",
+      "team": "team 6",
+      "number": 9
+    },
+    {
+      "id": 17,
+      "first_name": "Savanah",
+      "last_name": "Aufderhar",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/176.jpg",
+      "team": "team 7",
+      "number": 68
+    },
+    {
+      "id": 18,
+      "first_name": "Florida",
+      "last_name": "Oberbrunner",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/589.jpg",
+      "team": "team 8",
+      "number": 25
+    },
+    {
+      "id": 19,
+      "first_name": "Cleora",
+      "last_name": "Turcotte",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/824.jpg",
+      "team": "team 9",
+      "number": 55
+    },
+    {
+      "id": 20,
+      "first_name": "Brenden",
+      "last_name": "Collier",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1220.jpg",
+      "team": "team 10",
+      "number": 8
+    },
+    {
+      "id": 21,
+      "first_name": "Kenyon",
+      "last_name": "Glover",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/645.jpg",
+      "team": "team 1",
+      "number": 51
+    },
+    {
+      "id": 22,
+      "first_name": "Buford",
+      "last_name": "Cole",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+      "team": "team 2",
+      "number": 41
+    },
+    {
+      "id": 23,
+      "first_name": "Gabrielle",
+      "last_name": "Rowe",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg",
+      "team": "team 3",
+      "number": 82
+    },
+    {
+      "id": 24,
+      "first_name": "Vance",
+      "last_name": "Sanford",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/72.jpg",
+      "team": "team 4",
+      "number": 69
+    },
+    {
+      "id": 25,
+      "first_name": "Myah",
+      "last_name": "Langworth",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1173.jpg",
+      "team": "team 5",
+      "number": 5
+    },
+    {
+      "id": 26,
+      "first_name": "Kyla",
+      "last_name": "Breitenberg",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/331.jpg",
+      "team": "team 6",
+      "number": 32
+    },
+    {
+      "id": 27,
+      "first_name": "Llewellyn",
+      "last_name": "Brown",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/78.jpg",
+      "team": "team 7",
+      "number": 51
+    },
+    {
+      "id": 28,
+      "first_name": "Rudolph",
+      "last_name": "Heaney",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/450.jpg",
+      "team": "team 8",
+      "number": 14
+    },
+    {
+      "id": 29,
+      "first_name": "Kadin",
+      "last_name": "McKenzie",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1202.jpg",
+      "team": "team 9",
+      "number": 87
+    },
+    {
+      "id": 30,
+      "first_name": "Pablo",
+      "last_name": "D'Amore",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/387.jpg",
+      "team": "team 10",
+      "number": 74
+    },
+    {
+      "id": 31,
+      "first_name": "Carolanne",
+      "last_name": "Cronin",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/489.jpg",
+      "team": "team 1",
+      "number": 88
+    },
+    {
+      "id": 32,
+      "first_name": "Therese",
+      "last_name": "Adams",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1164.jpg",
+      "team": "team 2",
+      "number": 77
+    },
+    {
+      "id": 33,
+      "first_name": "Collin",
+      "last_name": "Runolfsdottir",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/497.jpg",
+      "team": "team 3",
+      "number": 61
+    },
+    {
+      "id": 34,
+      "first_name": "Libbie",
+      "last_name": "Corwin",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/514.jpg",
+      "team": "team 4",
+      "number": 94
+    },
+    {
+      "id": 35,
+      "first_name": "Rossie",
+      "last_name": "Stracke",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1078.jpg",
+      "team": "team 5",
+      "number": 73
+    },
+    {
+      "id": 36,
+      "first_name": "Jordy",
+      "last_name": "Armstrong",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/611.jpg",
+      "team": "team 6",
+      "number": 18
+    },
+    {
+      "id": 37,
+      "first_name": "Martin",
+      "last_name": "Schumm",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/293.jpg",
+      "team": "team 7",
+      "number": 33
+    },
+    {
+      "id": 38,
+      "first_name": "Cary",
+      "last_name": "Hilpert",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1157.jpg",
+      "team": "team 8",
+      "number": 9
+    },
+    {
+      "id": 39,
+      "first_name": "Dangelo",
+      "last_name": "O'Conner",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/621.jpg",
+      "team": "team 9",
+      "number": 28
+    },
+    {
+      "id": 40,
+      "first_name": "Jameson",
+      "last_name": "Howe",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/31.jpg",
+      "team": "team 10",
+      "number": 50
+    },
+    {
+      "id": 41,
+      "first_name": "Rowena",
+      "last_name": "McKenzie",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/273.jpg",
+      "team": "team 1",
+      "number": 91
+    },
+    {
+      "id": 42,
+      "first_name": "Nia",
+      "last_name": "Schneider",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/649.jpg",
+      "team": "team 2",
+      "number": 63
+    },
+    {
+      "id": 43,
+      "first_name": "Dashawn",
+      "last_name": "Reichel",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/559.jpg",
+      "team": "team 3",
+      "number": 40
+    },
+    {
+      "id": 44,
+      "first_name": "Manuela",
+      "last_name": "Dickinson",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/471.jpg",
+      "team": "team 4",
+      "number": 37
+    },
+    {
+      "id": 45,
+      "first_name": "Clotilde",
+      "last_name": "Kris",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/277.jpg",
+      "team": "team 5",
+      "number": 40
+    },
+    {
+      "id": 46,
+      "first_name": "Berniece",
+      "last_name": "Fisher",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/51.jpg",
+      "team": "team 6",
+      "number": 92
+    },
+    {
+      "id": 47,
+      "first_name": "Winnifred",
+      "last_name": "Morar",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/866.jpg",
+      "team": "team 7",
+      "number": 97
+    },
+    {
+      "id": 48,
+      "first_name": "General",
+      "last_name": "Hamill",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+      "team": "team 8",
+      "number": 95
+    },
+    {
+      "id": 49,
+      "first_name": "Sadye",
+      "last_name": "Cruickshank",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/942.jpg",
+      "team": "team 9",
+      "number": 23
+    },
+    {
+      "id": 50,
+      "first_name": "Everardo",
+      "last_name": "Hermann",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/569.jpg",
+      "team": "team 10",
+      "number": 62
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3suomennaisjaakiekonkotisivutstoragef887a595",
+  "bucketName": "suomen-naisjaakiekon-kotisivut-storage-f887a595",
+  "policyUUID": "4ff0cccf",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ]
+}

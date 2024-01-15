@@ -1,0 +1,28 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyc0a0d7f542c04-staging-130708-authRole",
+      "UnauthRoleArn": "arn:aws:iam::607719730745:role/amplify-amplifyc0a0d7f542c04-staging-130708-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::607719730745:role/amplify-amplifyc0a0d7f542c04-staging-130708-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-amplifyc0a0d7f542c04-staging-130708-deployment",
+      "UnauthRoleName": "amplify-amplifyc0a0d7f542c04-staging-130708-unauthRole",
+      "StackName": "amplify-amplifyc0a0d7f542c04-staging-130708",
+      "StackId": "arn:aws:cloudformation:eu-central-1:607719730745:stack/amplify-amplifyc0a0d7f542c04-staging-130708/eb4c8a20-e2a0-11ed-baa8-02eba0e82c90",
+      "AmplifyAppId": "dshmxha1twzz"
+    },
+    "categories": {
+      "auth": {
+        "kiekkoprojekti": {},
+        "suomennaisjaakiekonkotisivut": {}
+      },
+      "storage": {
+        "suomennaisjaakiekonk289200a3": {
+          "bucketName": "kiekkoprojekti-storage-b2d3a62f193452-staging",
+          "region": "eu-central-1"
+        },
+        "s3suomennaisjaakiekonkotisivutstoragef887a595": {}
+      }
+    }
+  }
+}

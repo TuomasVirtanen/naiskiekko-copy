@@ -1,0 +1,8 @@
+
+
+POST  http://localhost:8080/routes/mailotp/
+Content-Type: application/json
+
+{
+  "to": "seppo.hyvarinen@tuni.fi"
+}

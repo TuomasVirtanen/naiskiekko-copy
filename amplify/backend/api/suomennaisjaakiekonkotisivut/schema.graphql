@@ -1,0 +1,24 @@
+type Posts @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  tag: String
+  title: String!
+  text: String!
+  image: String
+  lead: String
+  writer: String!
+}
+
+type Players @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  firstName: String!
+  lastName: String!
+  playerPhoto: String
+  playerNumber: Int
+  playerTeam: String!
+  playerPosition: String
+  playerShoots: String
+  birthYear: String
+  linkToEliteProspects: String
+  linkToTeamSite: String
+}
+ 
