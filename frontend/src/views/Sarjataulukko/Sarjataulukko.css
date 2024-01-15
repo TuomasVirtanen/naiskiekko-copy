@@ -1,0 +1,71 @@
+.table-container {
+    overflow-x: auto;
+}
+
+.table-scroll {
+    width: fit-content;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+thead {
+    background-color: #0d47a1;
+    color: white;
+    height: 40px;
+    text-align: left;
+}
+
+td,
+th {
+    text-align: center;
+    padding: 5px;
+    vertical-align: middle;
+}
+
+th:first-child,
+td:first-child {
+    padding-left: 5px;
+}
+
+tbody tr {
+    height: 10px;
+    /* Adjust the height as desired */
+    border-bottom: 3px solid #90caf9;
+    padding: 5px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.position {
+    display: table-cell;
+    width: 31px;
+    height: 29px;
+    background-color: #0d47a1;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.shared-img {
+    width: 50px;
+    /* Adjust the image size as desired */
+    height: 50px;
+    /* Adjust the image size as desired */
+    margin-right: 15px;
+}
+
+.joukkue-header {
+    text-align: left;
+}
+
+.joukkue {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
